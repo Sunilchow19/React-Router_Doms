@@ -1,0 +1,11 @@
+.cls{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-evenly;
+    /* background-color: brown; */
+    height: 10vh;
+    background-color: bisque;
+    align-items: center;
+    /* opacity: 2; */
+
+}
